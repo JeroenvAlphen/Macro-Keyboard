@@ -10,3 +10,8 @@ You also have hardcoded programs, more programs will follow and if you have any 
 
 Macro keyboard V1.0
 Lock --> locks your system
+
+You can automatically start the macro.exe but adding it to your task scheduler. Watch this video to see how to do this:
+https://www.youtube.com/watch?v=6kHn9mbsnzQ
+
+
